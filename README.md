@@ -1,4 +1,4 @@
-# Makkala_Jagriti
+# MakkalaJagriti
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/GirlScriptSummerOfCode/Makkala_Jagriti/master/LICENSE)
 
