@@ -39,4 +39,5 @@ gatsby develop
 ```
 
 Admin: [Chathu Vishwajith](https://github.com/iamchathu)
+
 Mentors: Dhruv Jain, Rahul Rana, T K Sourab, Tulika Tewari, Kirankumar Ambati
