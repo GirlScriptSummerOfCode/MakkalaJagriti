@@ -1,5 +1,5 @@
 {
-  "name": "Makkala Jagriti",
+  "name": "MakkalaJagriti",
   "description": "Website for Makkala Jagriti",
   "version": "1.0.0",
   "author": "GirlScript",
@@ -8,6 +8,8 @@
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-plugin-sass": "^1.0.26",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
@@ -18,10 +20,21 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write 'src/**/*.js'",
+    "eslint": "node_modules/eslint-watch/bin/esw  -w --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^1.12.0"
+    "babel-eslint": "^8.2.5",
+    "eslint": "^5.0.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-loader": "^2.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.10.0",
+    "eslint-watch": "^3.1.5",
+    "gatsby-plugin-eslint": "^1.0.3",
+    "prettier": "^1.12.0",
+    "watch": "^1.0.2"
   },
   "repository": {
     "type": "git",
