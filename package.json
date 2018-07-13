@@ -21,7 +21,10 @@
     "develop": "gatsby develop",
     "format": "prettier --write 'src/**/*.js'",
     "eslint": "node_modules/eslint-watch/bin/esw  -w --fix",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "now-build": "npm run build",
+    "now-start": "serve --single ./public",
+    "now-deploy": "now"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.5",
